@@ -131,13 +131,13 @@ Closure
     ↓
 Operations
 
-## 8. Food Delivery App Example
+---
 
-| Lifecycle Stage      | Example Activity                                         |
-| -------------------- | -------------------------------------------------------- |
-| Initiation           | Identify need for food delivery platform                 |
-| Planning             | Define requirements and schedule                         |
-| Execution            | Develop the application                                  |
-| Monitoring & Control | Track schedule, cost, scope, quality and risks           |
-| Closure              | Obtain approval and transition application to operations |
+## 8. Food Delivery App Example
+Lifecycle Stage	Example Activity
+Initiation	Identify need for food delivery platform
+Planning	Define requirements and schedule
+Execution	Develop the application
+Monitoring & Control	Track schedule, cost, scope, quality and risks
+Closure	Obtain approval and transition application to operations
 
