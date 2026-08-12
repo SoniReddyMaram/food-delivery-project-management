@@ -131,7 +131,7 @@ Closure
     ↓
 Operations
 
-8. Food Delivery App Example
+## 8. Food Delivery App Example
 
 | Lifecycle Stage      | Example Activity                                         |
 | -------------------- | -------------------------------------------------------- |
