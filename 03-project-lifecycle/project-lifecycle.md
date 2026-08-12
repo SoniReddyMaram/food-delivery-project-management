@@ -131,3 +131,72 @@ Closure
     ↓
 Operations
 
+
+```
+
+
+# 8. Food Delivery App Example
+
+| Lifecycle Stage | Example Activity |
+|---|---|
+| Initiation | Identify need for food delivery platform |
+| Planning | Define requirements and schedule |
+| Execution | Develop the application |
+| Monitoring & Control | Track schedule, cost, scope, quality and risks |
+| Closure | Obtain approval and transition application to operations |
+
+The project lifecycle provides a structured approach for moving a project from an initial business need through planning, execution, monitoring, and final closure.
+
+
+---
+
+# 🧠 Lesson 3 — What You Need to Remember
+
+Don't try to memorize everything.
+
+Remember this:
+
+### **1. Initiation**
+> Should we do it?
+
+### **2. Planning**
+> How will we do it?
+
+### **3. Execution**
+> Let's do it.
+
+### **4. Monitoring & Control**
+> Are we doing it correctly and staying on track?
+
+### **5. Closure**
+> Is it finished and formally accepted?
+
+The easiest memory trick:
+
+> **START → PLAN → DO → CHECK → CLOSE**
+
+---
+
+# 📝 Practice
+
+Let's test you.
+
+A company wants to build an **online banking application**.
+
+Tell me which lifecycle stage applies to each activity:
+
+1. Management decides the project is needed.
+2. The team creates the project budget.
+3. Developers start coding.
+4. The PM discovers the project is two weeks behind schedule.
+5. The customer approves the final application.
+6. The team documents lessons learned.
+
+### Answers
+
+1. **Initiation** — deciding whether/why the project should happen.
+2. **Planning** — budget is part of project planning.
+3. **Execution** — the team is performing the work.
+4. **Monitoring & Control** — we're tracking schedule and taking corrective action.
+5. **Closure** — final acceptance.
+6. **Closure** — lessons learned are documented when closing the project.
